@@ -1,4 +1,4 @@
-# TASK 1 - Analysis of Clinical Trial Data Using Spark SQL
+# Analysis of Clinical Trial Data Using Spark SQL
 
 ## Overview
 This project focuses on analyzing clinical trial data using Spark SQL. The primary goal was to clean, process, and explore key aspects of the dataset, such as study types, conditions, and trial durations. The analysis provided valuable insights into clinical trials, helping build a foundation for further research.
